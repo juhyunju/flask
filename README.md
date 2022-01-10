@@ -12,6 +12,6 @@ static netmask=255.255.255.0
 # flask 설치
 
 ```
-sudo apt-get install python3-flask
-mkdir wepapp
+# sudo apt-get install python3-flask
+# mkdir wepapp
 ```
